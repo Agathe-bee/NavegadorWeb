@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavegadorWeb</string>
+    <string name="ingresar_url">Ingresar URL</string>
+    <string name="ir">Ir</string>
+</resources>
